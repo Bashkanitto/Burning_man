@@ -37,7 +37,7 @@ body{
     margin-right: 80px;
 }
 .fon{
-    background-image: url(../Burning_man-master/header-bg.jpg );
+    background-image: url(./header-bg.jpg );
     background-repeat: no-repeat;
     background-size: cover;
 }
